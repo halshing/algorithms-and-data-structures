@@ -1,0 +1,22 @@
+{
+  "name": "algorithms-and-data-structures",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halshing/algorithms-and-data-structures.git"
+  },
+  "keywords": [],
+  "author": "Hasan Shingieti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/halshing/algorithms-and-data-structures/issues"
+  },
+  "homepage": "https://github.com/halshing/algorithms-and-data-structures#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
